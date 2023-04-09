@@ -1,0 +1,18 @@
+.signupform{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    border: 0px solid black;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 12px black;
+}
+@media (max-width: 900px){
+    .signupform{
+        width: 90%;
+    }
+}
+.hor {
+    border: 2px solid black;
+}
